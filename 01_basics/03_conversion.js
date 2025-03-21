@@ -45,12 +45,12 @@ let str2="medha"
 let str3=str1+str2;
 // console.log(str3);
 
-// console.log("1"+2);
-// console.log(1+"2");
-// console.log("1"+2+2);
-// console.log(1+2+"2");
-// console.log(1+"2"+"3"+4+3);
-// console.log(1+7+"2"+"3"+4+3);
+// console.log("1"+2);-->12
+// console.log(1+"2");--->12
+// console.log("1"+2+2);--->122
+// console.log(1+2+"2");--->32
+// console.log(1+"2"+"3"+4+3);-->12343
+// console.log(1+7+"2"+"3"+4+3);--->82343
 
 // console.log(+true);
 // console.log(+"");
