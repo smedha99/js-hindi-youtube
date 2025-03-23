@@ -1,0 +1,17 @@
+const marvel_hero=['thor','ironman','spiderman'];
+const dc=['superman','flash','batman'];
+//marvel_hero.push(dc);
+//console.log(marvel_hero);
+//const newarr=marvel_hero.concat(dc);
+//console.log(newarr);
+//const allnew=[...marvel_hero,...dc];
+//console.log(allnew);
+// const allnew=[1,2,3,[4,5,6],6,7,[8,9]];
+// const newallnew=allnew.flat(Infinity);
+// console.log(newallnew);
+//console.log(Array.isArray("medha"));
+//console.log(Array.from("medha"));
+let score1=100;
+let score2=200;
+let score3=300;
+console.log(Array.of(score1,score2,score3));
